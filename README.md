@@ -1,7 +1,5 @@
-ef
-==
-
 Expert finding
+==
 
 For runnung expert finding demo run script run.py with 3 attributes:
 1 - file with queries;
